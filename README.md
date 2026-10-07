@@ -1,6 +1,4 @@
-# RN UI Cheat Sheet App
-
-Sổ tay học component React Native bằng tiếng Việt, phát triển từ **FirstTestCLI** và tham khảo cách tổ chức app Kotlin UI Cheat Sheet của bạn.
+# React Native UI Cheat Sheet App
 
 **90 mục trong 9 nhóm**, gồm demo tương tác, source code thật, props/API, lưu ý, bài tập nhỏ và liên kết tài liệu. App dùng React Native **0.87.1**, React **19.2.3**, TypeScript và New Architecture.
 
