@@ -24,7 +24,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     window = UIWindow(frame: UIScreen.main.bounds)
 
     factory.startReactNative(
-      withModuleName: "FirstTestCLI",
+      withModuleName: "RNUICheatSheet",
       in: window,
       launchOptions: launchOptions
     )
@@ -46,3 +46,4 @@ class ReactNativeDelegate: RCTDefaultReactNativeFactoryDelegate {
 #endif
   }
 }
+
